@@ -41,4 +41,4 @@ The bathroom and kitchen were the biggest challenges.
 ---------------------------------------------------------------------------------------------
 
 ** 2023, Norway Trolltunga. The trip was around 29km with 2500m ascend. 
-![Alt text](images/Trolltunga.png) 
+![Alt text](images/Trolltunga.jpg) 
