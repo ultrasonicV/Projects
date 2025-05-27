@@ -32,6 +32,12 @@ The entire project lasted for around 2 months, this included the evaluation, pla
 
 ---------------------------------------------------------------------------------------------
 
+**As an IT consultant at Senpage, I was responsible for developing the prototype of the Future Shopper marketplace in Figma. 
+Among other tasks, I conducted user tests, translated insights into UX and UI design iterations, and formulated the metric used to provide sustainability information about the products
+[Picture coming soon]
+
+---------------------------------------------------------------------------------------------
+
 ** I carried out the entire renovation of my apartment myself, except from the in-wall plumbing and the main circuit breaker replacement.  
 The bathroom and kitchen were the biggest challenges. 
 ![Alt text](images/Bathroom.png)   
