@@ -17,7 +17,7 @@ GPU: Zotac GeForce RTX 3090 Trinity,
 RAM: Kingston Fury Beast 64GB DDR5,  
 PSU: ROG-STRIX-1000G,  
 Montech Air 1000 cabinet,  
-![Alt text](images/MyPC.pn)
+![Alt text](images/MyPC.jpg)
 
 ---------------------------------------------------------------------------------------------
 
