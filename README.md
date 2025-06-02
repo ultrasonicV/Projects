@@ -53,5 +53,5 @@ The bathroom and kitchen were the biggest challenges.
 
 ** Home server setup:
 A Rasperry Pi runs as a dedicated media server of copyright-free movies and files. (qBittorrent, Minidlna, Samba) 
-A small form factor PC running on Ubuntu acts as a NextCloud server for automated picture backuo and data hosting.
+A small form factor PC running on Ubuntu acts as a NextCloud server for automated picture backup and data hosting.
 ![Alt text](images/Server.jpg) 
