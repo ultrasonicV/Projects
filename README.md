@@ -48,3 +48,10 @@ The bathroom and kitchen were the biggest challenges.
 
 ** 2023, Norway Trolltunga. The trip was around 29km with 2500m ascend. 
 ![Alt text](images/Trolltunga.jpg) 
+
+---------------------------------------------------------------------------------------------
+
+** Home server setup:
+A Rasperry Pi runs as a dedicated media server of copyright-free movies and files. (qBittorrent, Minidlna, Samba) 
+A small form factor PC running on Ubuntu acts as a NextCloud server for automated picture backuo and data hosting.
+![Alt text](images/Server.jpg) 
